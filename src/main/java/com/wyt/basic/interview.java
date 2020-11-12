@@ -22,5 +22,7 @@ public class interview {
         System.out.println(a5==a6);
 
         System.out.println("666");
+
+        System.out.println("888");
     }
 }
